@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irfan Ali</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-- 📫 How to reach me **alimohammadirfan7@gmail.com**
+- 📫 How to reach me **official.irfanali.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
