@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/irrfan-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irrfan-ali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/irfanali7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irfanali7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/irfanali7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="irfanali7" height="30" width="40" /></a>
+
 </p>
 
 # 💻 Tech Stack:
